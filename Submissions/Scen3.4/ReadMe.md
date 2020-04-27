@@ -1,5 +1,5 @@
 # Grade
-I will submit your grade here
+10/10 Great job! Very thorough report. 
 
 # Submission notes
-Add any documentation or notes on your submission that you want me to see here. 
+Add any documentation or notes on your submission that you want me to see here.

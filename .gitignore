@@ -26,3 +26,5 @@
 *.list
 *.log
 *.timeseries
+*.riv
+*.sloc
