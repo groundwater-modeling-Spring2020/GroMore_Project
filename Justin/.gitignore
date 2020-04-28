@@ -28,3 +28,4 @@
 *.timeseries
 *.riv
 *.sloc
+*/otherstuff/*
