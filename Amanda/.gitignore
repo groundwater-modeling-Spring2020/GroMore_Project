@@ -28,4 +28,5 @@
 *.timeseries
 *.riv
 *.sloc
+*.pickle
 **/otherstuff/**
